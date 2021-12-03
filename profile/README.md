@@ -10,4 +10,4 @@ ____
 
 ## Developers: 
 
---@ Dev_Cron | Lead programmer
+Dev_Cron | Lead Programmer
